@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>A collection of RSS feeds for web developers</title>
+        <ownerId>https://github.com/simevidas/web-dev-feeds</ownerId>
+    </head>
+    <body>
+          <outline text="安全信息 - 资源 ">
+      <outline text="&lt;audio src/onerror=&quot;alert(document.domain)&quot;&gt;&lt;/audio&gt; 工作室 " title="&lt;audio src/onerror=&quot;alert(document.domain)&quot;&gt;&lt;/audio&gt;" type="rss" xmlUrl="http://www.latexstudio.net/feed/" htmlUrl="http://www.latexstudio.net"/>
+    </outline>
+    </body>
+</opml>
